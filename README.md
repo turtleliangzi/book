@@ -10,7 +10,7 @@
 
 > 互联网时代的码农
 
-- 公司：江西安纳斯江西有限公司
+- 公司：[江西安纳斯江西有限公司](www.anasit.com)
 - 职位：项目经理
 - 公司邮箱： turtle@anasit.com（要联系，请发这个邮箱）
 - 个人邮箱：turtleliangz@gmail.com
