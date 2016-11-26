@@ -15,7 +15,7 @@
 - 公司邮箱： turtle@anasit.com（要联系，请发这个邮箱）
 - 个人邮箱：turtleliangz@gmail.com
 - 个人博客：http://blog.turtletl.com
-- csdn博客：http://blog.csdn.cn/turtleo
+- csdn博客：http://blog.csdn.net/turtleo
 - github: http://github.com/turtleliangzi
 - gitbook：http://book.turtletl.com
 
