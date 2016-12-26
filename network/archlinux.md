@@ -1,4 +1,4 @@
-#  <center>Archlinux-轻量、简单的linux发行版</center>
+#  <center>Archlinux——轻量、简单的linux发行版</center>
 <center>create at 2016-12-26 by turtle</center>
 
 
@@ -12,3 +12,17 @@ ArchLinux是朝向轻量、简单的Linux发行版，其中“简单”被定义
 本文着重介绍的是我在使用arch过程中用到的配套工具及碰到的一些问题。
 
 想更多的了解及安装可以访问[arch wiki](https://wiki.archlinux.org/)，里面有关于arch的详细介绍及安装教程。
+
+## 一、怎么联网
+
+## 二、使用awesome窗口管理器
+
+## 三、使用terminator终端
+
+## 四、使用shadowsocks翻墙
+
+## 五、使用proxychains系统代理软件
+
+## 六、使用fcitx、fcitx-sogoupinyin输入法
+
+## 七、如何更换字体
