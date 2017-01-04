@@ -1,4 +1,4 @@
-# <center>Vim——面向程序员的编辑器</center>
+# <center>Vim——面向程序员的编辑利器</center>
 <center>create at 2017-01-04 by turtle</center>
  <hr>
  <br>
