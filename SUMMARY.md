@@ -9,6 +9,7 @@
   * [2、vim](tools\vim.md)
   * [3、docker](tools\docker.md)
 * [四、学管理](manage\manage.md)
+  * [1、确定自己的职位](manage\position.md)
 * [五、学理财](finance\finance.md)
   * [1、什么是理财？](finance\what_finance.md)
   * [2、现实问题——买房是按揭付款还是等挣够了再买？](finance\question1)
