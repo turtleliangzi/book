@@ -8,7 +8,7 @@
   * [1、archlinux](tools\archlinux.md)
   * [2、vim](tools\vim.md)
   * [3、docker](tools\docker.md)
-* [四、项目管理](manage\manage.md)
+* [四、管理学](manage\manage.md)
 * [五、理财](finance\finance.md)
 * [六、书单](book\book.md)
   * [1、关键对话（在读)](book/ critical_dialogue.md)
