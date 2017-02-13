@@ -13,6 +13,7 @@
 * [五、学理财](finance\finance.md)
   * [1、什么是理财？](finance\what_finance.md)
   * [2、现实问题——买房是按揭付款还是等挣够了再买？](finance\question1)
+* [六、市场营销](marketing\marketing.md)
 * [六、阅读](book\book.md)
   * [1、关键对话（在读)](book/critical_dialogue.md)
   * [2、富爸爸穷爸爸（在读)](book/richDad_poorDad.md)
