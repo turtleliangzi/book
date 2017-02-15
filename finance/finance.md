@@ -1,5 +1,6 @@
 # <center>学理财</center>
-<center>author turtle, created at 2017-02-13</center>
+<center>created at 2017-02-13 by turtle</center>
+<hr>
 <br>
 学理财之前，先问自己一个问题，就是什么是理财？<br>
 对，什么是理财，顾名思义，理财就是合理的打理自己的钱财，理财的目的是实现资产的保值增值，“保值”是指能够对抗通货膨胀带来的贬值影响，增值是指能够享受经济增长带来的红利。
